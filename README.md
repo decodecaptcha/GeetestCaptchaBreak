@@ -7,6 +7,8 @@ aidencaptcha@gmail.com
 
 
 # 更新说明
+2023-09-26: 上线 GeetestCaptchaBreak 虎嗅网登录/注册案例
+
 2023-09-03: GeetestCaptchaBreak 全新上线
 
 效果图：
@@ -28,7 +30,7 @@ Web/APP/小程序都通用
 
 # api 例子地址
 
-<!-- * [xxx](https://github.com/aiden2048/xxx) -->
+* [虎嗅网登录/注册案例](https://github.com/aidencaptcha/HuXiuSpider)
 
 
 
