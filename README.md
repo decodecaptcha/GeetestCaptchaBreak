@@ -16,8 +16,8 @@ aidencaptcha@gmail.com
 2023-09-03: GeetestCaptchaBreak 极验四代 全新上线
 
 效果图：
-
-![image](https://github.com/aiden2048/GeetestCaptchaBreak/blob/main/examples/100%E6%88%90%E5%8A%9F%E6%88%AA%E5%9B%BE.jpg)
+Geetest4
+![image](https://github.com/aidencaptcha/GeetestCaptchaBreak/blob/main/Geetest4_examples/100%E6%88%90%E5%8A%9F%E6%88%AA%E5%9B%BE.jpg)
 
 # 使用此类验证码的网站
 
